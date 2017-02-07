@@ -4,6 +4,8 @@ Hi~ guys
 
 this is an example of g2o usage
 
+write based on the repo from GaoXiang: [ g2o_ba_example ](https://github.com/gaoxiang12/g2o_ba_example)
+
 ## How to build:
 
 ```bash
@@ -12,7 +14,7 @@ this is an example of g2o usage
     mkdir build
     cd build
     cmake ..
-    make -
+    make -j
 ```
 
 Then the executable file **g2o_example** will in folder bin/
